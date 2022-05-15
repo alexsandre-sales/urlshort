@@ -1,6 +1,6 @@
 # URL Short
 
-URL curtas, mas o principio foi usar o **typegoose**, criar models de forma mais simplificada
+URL curtas, o principio foi usar o **typegoose**, criar models de forma mais simplificada
 
 ---
 
